@@ -14,3 +14,6 @@
 3、将 .vim 目录拷贝到你的用户目录，例如 cp -r .vim ~/
 
 4、Done
+
+5、如果没有安装ctags,应该yum install ctags
+cp /usr/bin/ctags /usr/local/bin/ctags
